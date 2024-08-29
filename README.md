@@ -20,6 +20,7 @@ How to Play
 1. Run the game script ((link unavailable))
 2. Guess a letter by typing it in and pressing Enter
 3. Keep guessing until you correctly guess the word or the hangman figure is complete
+4. 
 
 Future Improvements
 
